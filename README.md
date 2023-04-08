@@ -1,3 +1,5 @@
-This QUIZ has been made with the theme of "Do You Know Me" as asked for the neog.camp markone Project. 
+Hello! 
+My name is Abhishek Bisht.
+I am currently learning javascript from neog.camp.
+This is the First Project regarding the MarkChecklist.
 
-NOTE: If you wish giving it a try, Plz use Capital Letter at the start of every word.
