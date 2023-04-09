@@ -72,4 +72,4 @@ for (var j = 0; j < highScore.length; j++) {
 
 console.log("--------------------------------")
 
-console.log("\nIf you scored higher. \nSend me a screenshot at #8448463607 and I will update the scoreboard.")
+console.log("\nIf you scored higher. \nSend me a screenshot and I will update the scoreboard.")
